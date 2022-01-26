@@ -1,0 +1,21 @@
+,"items":
+[
+{"menu_id":61,"module_id":1,"menu_name":"APIS Error in Processing","menu_desc":"APIS Error in Processing","target_page":"im_pax_apis_error01.jsp","entry_date":"02-08-20","user_id":"ADMIN"}
+,{"menu_id":10,"module_id":1,"menu_name":"APIS Files Count","menu_desc":"APIS Files Count","target_page":"IM_APIS_FILES_COUNT00.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":9,"module_id":1,"menu_name":"APIS Table Data Count","menu_desc":"APIS Table Data Count (APIS)","target_page":"IM_APIS_TABLE_COUNT.JSP?TABLE_NAME=IM_APIS","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":62,"module_id":1,"menu_name":"APIS Table Data Monthly Count","menu_desc":"APIS Table Data Monthly Count","target_page":"{\"APIS-PAX\": \"im_apislog_monthwise_apis_pax_pdf.jsp?rpt_type=1\",\"FLIGHT_ERROR\": \"im_apislog_monthwise_flight_error_pdf.jsp?rpt_type=1\"\r\n}","entry_date":"02-08-20","user_id":"ADMIN"}
+,{"menu_id":13,"module_id":1,"menu_name":"Add PAX to Suspect List","menu_desc":"Add PAX to Suspect List","target_page":"IM_DYNAMIC_ADD_SUSPECT00.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":64,"module_id":1,"menu_name":"Arrival APIS Statistics","menu_desc":"Arrival APIS Statistics","target_page":"im_apis_arr.jsp","entry_date":"02-08-20","user_id":"ADMIN"}
+,{"menu_id":11,"module_id":1,"menu_name":"Automatic Suspect Passenger List","menu_desc":"Automatic Suspect Passenger List","target_page":"IM_DYNAMIC_SUSPECT_REPORT13.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":12,"module_id":1,"menu_name":"Automatically Generated Suspect Passengers List","menu_desc":"Automatically Generated Suspect Passengers List","target_page":"IM_DYNAMIC_SUSPECT_REPORT13_ROLE.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":63,"module_id":1,"menu_name":"Departure APIS Statistics","menu_desc":"Departure APIS Statistics","target_page":"im_apis_dep.jsp","entry_date":"02-08-20","user_id":"ADMIN"}
+,{"menu_id":4,"module_id":1,"menu_name":"Dis-Embarkation Port-Wise Breakup Summary","menu_desc":"Dis-Embarkation Port-Wise Breakup Summary","target_page":"IM_APIS_PORTCOUNT01.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":3,"module_id":1,"menu_name":"Duplicate Records based on Passport No.","menu_desc":"Duplicate Records based on Passport No.","target_page":"IM_APIS_DUPLICATE01.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":6,"module_id":1,"menu_name":"Dynamic Query","menu_desc":"Dynamic Query","target_page":"IM_DYNAMIC_APIS_REPORT01.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":2,"module_id":1,"menu_name":"Inbound Carrier Summary Report","menu_desc":"Inbound Carrier Summary Report","target_page":"IM_APIS_REPORT01.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":8,"module_id":1,"menu_name":"International Flight arriving to India","menu_desc":"International Flight arriving to India","target_page":"IM_APIS_INT_FLIGHTS_PDF.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":1,"module_id":1,"menu_name":"Status of Processing of APIS Files","menu_desc":"Status of Processing of APIS Files","target_page":"IM_APIS_SERVERFILES01.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":5,"module_id":1,"menu_name":"Summary Report after processing APIS Data","menu_desc":"Summary Report after processing APIS Data","target_page":"IM_APIS_PAX_SUMMARY01.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":7,"module_id":1,"menu_name":"System Generated Suspect Passenger List","menu_desc":"System Generated Suspect Passenger List","target_page":"IM_DYNAMIC_SUSPECT_REPORT00.JSP","entry_date":"29-10-14","user_id":"ADMIN"}
+,{"menu_id":60,"module_id":1,"menu_name":"User-wise Monthly Usage of CBEC-APIS Application","menu_desc":"User-wise Monthly Usage of CBEC-APIS Application","target_page":"im_monthly_apis_usage01.jsp","entry_date":"02-08-20","user_id":"ADMIN"}
+]}
